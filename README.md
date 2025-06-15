@@ -9,6 +9,8 @@ Private and broadcast messaging.
 
 Graceful disconnect when a client types bye.
 
+Messages are stored in the server.
+
 ## Requirements
 Python 3.x
 
